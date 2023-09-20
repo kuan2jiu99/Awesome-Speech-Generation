@@ -45,9 +45,9 @@ A Survey on speech generation research.
     [[paper](https://arxiv.org/abs/2305.09636)] [[demo](https://google-research.github.io/seanet/soundstorm/examples/)]
 
 * (2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)
-    [[paper](https://arxiv.org/abs/2301.02111)] [[demo](https://www.microsoft.com/en-us/research/project/vall-e-x/)]
+    [[paper](https://arxiv.org/abs/2301.02111)] [[demo](https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e/)]
 
-* (2023) Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling
+* (2023) Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling (VALL-E X)
     [[paper](https://arxiv.org/abs/2303.03926)] [[demo](https://www.microsoft.com/en-us/research/project/vall-e-x/)]
 
 * (2023) Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision
@@ -96,6 +96,46 @@ A Survey on speech generation research.
 
 
 ## Audio-Guided Text-to-Speech
+
+Style Specified by an Audio (Speech) Prompt
+
+* (2023) SpeechX: Neural Codec Language Model as a Versatile Speech Transformer
+    [[paper](https://arxiv.org/abs/2308.06873)] [[demo](https://www.microsoft.com/en-us/research/project/speechx/)]
+
+* (2023) VioLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation
+    [[paper](https://arxiv.org/abs/2305.16107)]
+
+* (2023) SoundStorm: Efficient Parallel Audio Generation
+    [[paper](https://arxiv.org/abs/2305.09636)] [[demo](https://google-research.github.io/seanet/soundstorm/examples/)]
+
+* (2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers (VALL-E)
+    [[paper](https://arxiv.org/abs/2301.02111)] [[demo](https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e/)]
+
+* (2023) Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling (VALL-E X)
+    [[paper](https://arxiv.org/abs/2303.03926)] [[demo](https://www.microsoft.com/en-us/research/project/vall-e-x/)]
+
+* (2023) Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision
+    [[paper](https://arxiv.org/abs/2302.03540)] [[demo](https://google-research.github.io/seanet/speartts/examples/)]
+
 ## Text-Guided Text-to-Speech
+
+Style Specified by a Text Prompt
+
+* (2023) PromptTTS 2: Describing and Generating Voices with Text Prompt
+    [[paper](https://arxiv.org/abs/2309.02285)] [[demo](https://speechresearch.github.io/prompttts2/)]
+
+* (2023) PromptStyle: Controllable Style Transfer for Text-to-Speech with Natural Language Descriptions
+    [[paper](https://arxiv.org/abs/2305.19522)] [[demo](https://promptstyle.github.io/PromptStyle)]
+
+* (2023) TextrolSpeech: A Text Style Control Speech Corpus With Codec Language Text-to-Speech Models
+    [[paper](https://arxiv.org/abs/2308.14430)] [[demo](https://sall-e.github.io/)]
+
+* (2023) InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt
+    [[paper](https://arxiv.org/abs/2301.13662)] [[demo](http://dongchaoyang.top/InstructTTS/)]
+
+* (2022) PromptTTS: controllable text-to-speech with text descriptions
+    [[paper](https://arxiv.org/abs/2211.12171)] [[demo](https://speechresearch.github.io/prompttts/)]
+
 ## Text-Guided Text-to-Audio
+
 ## Text-Guided Text-to-Music
