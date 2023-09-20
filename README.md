@@ -139,3 +139,23 @@ Style Specified by a Text Prompt
 ## Text-Guided Text-to-Audio
 
 ## Text-Guided Text-to-Music
+
+## Multi-modality Large Language Model
+
+* (2023) Prompting Large Language Models with Speech Recognition Abilities
+    [[paper](https://arxiv.org/abs/2307.11795)] [[demo]()]
+
+* (2023) On decoder-only architecture for speech-to-text and large language model integration
+    [[paper](https://arxiv.org/abs/2307.03917)] [[demo]()]
+
+* (2023) LMs with a Voice: Spoken Language Modeling beyond Speech Tokens
+    [[paper](https://arxiv.org/abs/2305.15255)] [[demo]()]
+
+* (2023) AudioPaLM: A Large Language Model That Can Speak and Listen
+    [[paper](https://arxiv.org/abs/2306.12925)] [[demo]()]
+
+* (2023) Listen, Think, and Understand
+    [[paper](https://arxiv.org/abs/2305.10790)] [[demo]()]
+
+* (2023) SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities
+    [[paper](https://arxiv.org/abs/2305.11000)] [[demo]()]
