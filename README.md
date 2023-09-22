@@ -99,6 +99,12 @@ A Survey on speech generation research.
 
 Style Specified by an Audio (Speech) Prompt
 
+* (2023) PromptVC: Flexible Stylistic Voice Conversion in Latent Space Driven by Natural Language Prompts
+    [[paper](https://arxiv.org/abs/2309.09262)] [[demo](https://yaoxunji.github.io/prompt_vc/)]
+
+* (2023) Improving Language Model-Based Zero-Shot Text-to-Speech Synthesis with Multi-Scale Acoustic Prompts
+    [[paper](https://arxiv.org/abs/2309.11977)] [[demo](https://thuhcsi.github.io/icassp2024-msvalle/)]
+
 * (2023) SpeechX: Neural Codec Language Model as a Versatile Speech Transformer
     [[paper](https://arxiv.org/abs/2308.06873)] [[demo](https://www.microsoft.com/en-us/research/project/speechx/)]
 
