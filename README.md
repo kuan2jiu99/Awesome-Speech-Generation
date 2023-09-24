@@ -48,6 +48,10 @@ Style Specified by an Audio (Speech) Prompt
     
     [[paper](https://arxiv.org/abs/2309.11977)] [[demo](https://thuhcsi.github.io/icassp2024-msvalle/)]
 
+* (2023) Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale
+
+    [[paper](https://arxiv.org/abs/2306.15687)] [[demo](https://voicebox.metademolab.com/)]
+
 * (2023) SpeechX: Neural Codec Language Model as a Versatile Speech Transformer
     
     [[paper](https://arxiv.org/abs/2308.06873)] [[demo](https://www.microsoft.com/en-us/research/project/speechx/)]
@@ -223,6 +227,10 @@ Style Specified by a Text Prompt
 * (2023) Improving Language Model-Based Zero-Shot Text-to-Speech Synthesis with Multi-Scale Acoustic Prompts
     
     [[paper](https://arxiv.org/abs/2309.11977)] [[demo](https://thuhcsi.github.io/icassp2024-msvalle/)]
+
+* (2023) Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale
+
+    [[paper](https://arxiv.org/abs/2306.15687)] [[demo](https://voicebox.metademolab.com/)]
 
 * (2023) PromptTTS 2: Describing and Generating Voices with Text Prompt
     
