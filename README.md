@@ -6,7 +6,8 @@ A Survey on speech generation research.
 
 Style Specified by a Text Prompt.
 
-<!-- * (2023) Towards General-Purpose Text-Instruction-Guided Voice Conversion -->
+* (2023) Towards General-Purpose Text-Instruction-Guided Voice Conversion
+    [[paper](https://arxiv.org/abs/2309.14324)] [[demo](https://text-guided-vc.github.io/asru2023_demo/)]
 
 * (2023) PromptVC: Flexible Stylistic Voice Conversion in Latent Space Driven by Natural Language Prompts
     
