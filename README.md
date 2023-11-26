@@ -4,10 +4,22 @@ A Survey on speech generation research.
 
 ## Text-Guided Voice Conversion
 
-Style Specified by a Text Prompt.
+Style Voice Conversion by Natural Language Prompts.
 
 * (2023) Towards General-Purpose Text-Instruction-Guided Voice Conversion
     [[paper](https://arxiv.org/abs/2309.14324)] [[demo](https://text-guided-vc.github.io/asru2023_demo/)]
+
+* (2023) PromptVC: Flexible Stylistic Voice Conversion in Latent Space Driven by Natural Language Prompts
+    
+    [[paper](https://arxiv.org/abs/2309.09262)] [[demo](https://yaoxunji.github.io/prompt_vc/)]
+
+## Audio-Guided Voice Conversion
+
+Style Voice Conversion by Reference Speech.
+
+* (2023) HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation by Hierarchical Variational Inference for Zero-shot Speech Synthesis
+
+    [[paper](https://arxiv.org/abs/2309.11977)] [[demo](https://sh-lee-prml.github.io/HierSpeechpp-demo/)] [[code](https://github.com/sh-lee-prml/HierSpeechpp)]
 
 * (2023) PromptVC: Flexible Stylistic Voice Conversion in Latent Space Driven by Natural Language Prompts
     
@@ -44,6 +56,10 @@ Style Specified by a Text Prompt.
 ## Audio-Guided Text-to-Speech
 
 Style Specified by an Audio (Speech) Prompt
+
+* (2023) HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation by Hierarchical Variational Inference for Zero-shot Speech Synthesis
+
+    [[paper](https://arxiv.org/abs/2309.11977)] [[demo](https://sh-lee-prml.github.io/HierSpeechpp-demo/)] [[code](https://github.com/sh-lee-prml/HierSpeechpp)]
 
 * (2023) Improving Language Model-Based Zero-Shot Text-to-Speech Synthesis with Multi-Scale Acoustic Prompts
     
@@ -191,6 +207,13 @@ Style Specified by a Text Prompt
 
 ## Voice Conversion
 
+* (2023) HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation by Hierarchical Variational Inference for Zero-shot Speech Synthesis
+
+    [[paper](https://arxiv.org/abs/2309.11977)] [[demo](https://sh-lee-prml.github.io/HierSpeechpp-demo/)] [[code](https://github.com/sh-lee-prml/HierSpeechpp)]
+
+* (2023) Towards General-Purpose Text-Instruction-Guided Voice Conversion
+    [[paper](https://arxiv.org/abs/2309.14324)] [[demo](https://text-guided-vc.github.io/asru2023_demo/)]
+
 * (2023) PromptVC: Flexible Stylistic Voice Conversion in Latent Space Driven by Natural Language Prompts
     
     [[paper](https://arxiv.org/abs/2309.09262)] [[demo](https://yaoxunji.github.io/prompt_vc/)]
@@ -224,6 +247,10 @@ Style Specified by a Text Prompt
     [[paper](https://arxiv.org/abs/2306.05284)] [[demo](https://ai.honu.io/papers/musicgen/)] [[github](https://github.com/facebookresearch/audiocraft)]
 
 ## Text-to-Speech
+
+* (2023) HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation by Hierarchical Variational Inference for Zero-shot Speech Synthesis
+
+    [[paper](https://arxiv.org/abs/2309.11977)] [[demo](https://sh-lee-prml.github.io/HierSpeechpp-demo/)] [[code](https://github.com/sh-lee-prml/HierSpeechpp)]
 
 * (2023) Improving Language Model-Based Zero-Shot Text-to-Speech Synthesis with Multi-Scale Acoustic Prompts
     
